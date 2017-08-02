@@ -308,7 +308,7 @@ let options = {
 let {title, ...rest} = options;
 */!*
 
-// now title="Menu", rest={height: 200, widht: 100}
+// now title="Menu", rest={height: 200, width: 100}
 alert(rest.height);  // 200
 alert(rest.width);   // 100
 ```
